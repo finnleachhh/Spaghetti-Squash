@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-	<head>
+<head>
   <meta charset="UTF-8">
   <meta name="description" content="Spaghetti Squash">
   <meta name="keywords" content="spaghetti, squash, cheesy, shrimp">
@@ -28,4 +28,3 @@
 		</p>
 </body>
 </html>
-
